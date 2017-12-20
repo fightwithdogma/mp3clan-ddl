@@ -1,2 +1,4 @@
 # mp3clan-ddl
-removes artificial DL limit on mp3clan
+Removes artificial DL limit on mp3clan
+
+For use with tampermonkey
